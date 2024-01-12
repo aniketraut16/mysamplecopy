@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mysamplecopy/static/css/main.f0bcd8b7.css",
+    "main.js": "/mysamplecopy/static/js/main.4e3aca3c.js",
+    "static/js/787.0ad4eec9.chunk.js": "/mysamplecopy/static/js/787.0ad4eec9.chunk.js",
+    "static/media/event-img-1.png": "/mysamplecopy/static/media/event-img-1.6774d8902623737e0083.png",
+    "static/media/Vector.png": "/mysamplecopy/static/media/Vector.2219bf469be3e8477f52.png",
+    "static/media/events-landing-page-img.png": "/mysamplecopy/static/media/events-landing-page-img.c5e22fe6c015557d95db.png",
+    "static/media/marketing-team.png": "/mysamplecopy/static/media/marketing-team.58e2be2094eaf82102e9.png",
+    "static/media/graphics-team.png": "/mysamplecopy/static/media/graphics-team.c9dcb9f6e8f22ae17f91.png",
+    "static/media/tech-team.png": "/mysamplecopy/static/media/tech-team.23afe912136fd78a393d.png",
+    "static/media/events-team.png": "/mysamplecopy/static/media/events-team.b3495bc39ebb21ad70ba.png",
+    "static/media/content-team.png": "/mysamplecopy/static/media/content-team.cb9a447e721cbbe375de.png",
+    "static/media/reach-out-us-img.png": "/mysamplecopy/static/media/reach-out-us-img.4390d66b77e9ff8295b6.png",
+    "static/media/video-editor-team.png": "/mysamplecopy/static/media/video-editor-team.57ea86c5c44cca46bf7c.png",
+    "static/media/home-bg.png": "/mysamplecopy/static/media/home-bg.f99d655c60cb0a64487e.png",
+    "static/media/eventsbg.png": "/mysamplecopy/static/media/eventsbg.7f55e3e028e36cbd90d7.png",
+    "static/media/contact.png": "/mysamplecopy/static/media/contact.a21ff0d1619adac055b8.png",
+    "static/media/social-media-team.png": "/mysamplecopy/static/media/social-media-team.5d8786378e8c9a28f601.png",
+    "static/media/back.jpg": "/mysamplecopy/static/media/back.faf591aa67ee56c61fd3.jpg",
+    "static/media/brc 1.png": "/mysamplecopy/static/media/brc 1.38d2952b3ee026f4064d.png",
+    "static/media/brc-logo.svg": "/mysamplecopy/static/media/brc-logo.afe4cca69f17ea1bd713da3bd05654ab.svg",
+    "index.html": "/mysamplecopy/index.html",
+    "main.f0bcd8b7.css.map": "/mysamplecopy/static/css/main.f0bcd8b7.css.map",
+    "main.4e3aca3c.js.map": "/mysamplecopy/static/js/main.4e3aca3c.js.map",
+    "787.0ad4eec9.chunk.js.map": "/mysamplecopy/static/js/787.0ad4eec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0bcd8b7.css",
+    "static/js/main.4e3aca3c.js"
+  ]
+}
